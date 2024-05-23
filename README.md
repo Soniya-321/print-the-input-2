@@ -21,6 +21,7 @@ Sample Input 1
 Sample Output 1
       Algebra
       ### 
+
 Sample Input 2
       1a2b3c
 
